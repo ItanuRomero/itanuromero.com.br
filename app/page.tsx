@@ -81,7 +81,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Conheça o futuro projeto pessoal: "Escreva sobre o que você é entusiasta"
+            Conheça o futuro projeto pessoal: &ldquo;Escreva sobre o que você é entusiasta&rdquo;
           </p>
         </a>
       </div>
